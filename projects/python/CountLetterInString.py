@@ -71,3 +71,7 @@ for i in str3:
 print(f" letters in {str3} is {letter}")
 print(f"Numbers in {str3} is {number}")
 print(f"Specials in {str3} is {special}")
+
+
+#one comment line added at end of file
+...

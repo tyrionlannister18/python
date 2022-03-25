@@ -9,6 +9,15 @@ print(str2)
 print(str3)
 
 
+#1.
+#count total letters in string
+x = 'Companion'
+count = 0
+for i in x:
+    count+=1
+print(f"Number of Letter in {x} is {count}")
+    
+
 
 #2.
 #count the given particular letter in string
